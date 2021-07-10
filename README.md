@@ -1,14 +1,14 @@
 # Code10
 Lista dos Códigos 10
-* 10-0  ⇾ Cautela
-* 10-1  ⇾ Frequência Ruim
-* 10-2  ⇾ Frequência Boa e Limpa
-* 10-3  ⇾ Limpar Rádio
-* 10-4  ⇾ Sim
-* 10-6  ⇾ Ocupado/Pausa
-* 10-7  ⇾ Fora de Serviço
-* 10-8  ⇾ Em Serviço
-* 10-9  ⇾ Repetir Última Mensagem
+* 10-0 ⇾ Cautela
+* 10-1 ⇾ Frequência Ruim
+* 10-2 ⇾ Frequência Boa e Limpa
+* 10-3 ⇾ Limpar Rádio
+* 10-4 ⇾ Sim
+* 10-6 ⇾ Ocupado/Pausa
+* 10-7 ⇾ Fora de Serviço
+* 10-8 ⇾ Em Serviço
+* 10-9 ⇾ Repetir Última Mensagem
 * 10-10 ⇾ Tiroteio em Progresso
 * 10-11 ⇾ Parar o Trafego
 * 10-12 ⇾ Rota Ativa
